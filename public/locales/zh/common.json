@@ -1,0 +1,26 @@
+{
+  "home": {
+    "title": "Corepunk 百科 - 您的终极 Corepunk MMORPG 指南",
+    "latestNews": "最新消息与更新",
+    "guides": "精选攻略"
+  },
+  "nav": {
+    "home": "首页",
+    "guides": "攻略",
+    "wiki": "百科",
+    "resources": "资源",
+    "community": "社区"
+  },
+  "footer": {
+    "about": "关于我们",
+    "description": "您的综合 Corepunk 攻略、新闻和社区信息来源。",
+    "quickLinks": "快速链接",
+    "guides": "攻略",
+    "wiki": "百科",
+    "community": "社区",
+    "legal": "法律信息",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "rights": "版权所有。"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "home": {
+    "title": "Corepunk - Official Game Website",
+    "videoCaption": "Discover the vast world of Corepunk - Where cyberpunk meets fantasy",
+    "downloadTitle": "Join the Adventure Today!",
+    "downloadSubtitle": "Download Corepunk and begin your journey",
+    "downloadButton": "Download Now",
+    "downloadSize": "20 GB",
+    "systemRequirements": "System Requirements",
+    "galleryTitle": "Image Gallery",
+    "sections": {
+      "guides": "Game Guides",
+      "guidesDesc": "Master the game with our comprehensive guides and tutorials",
+      "wiki": "Wiki",
+      "wikiDesc": "Explore the extensive database of game lore, items, and mechanics",
+      "media": "Media",
+      "mediaDesc": "Watch the latest trailers, cinematics, and gameplay footage",
+      "resources": "Resources",
+      "resourcesDesc": "Access tools, maps, and reference materials",
+      "community": "Community",
+      "communityDesc": "Join forums and connect with other players",
+      "discordDesc": "Join our Discord community for live discussions and updates"
+    }
+  }
+}

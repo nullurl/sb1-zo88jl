@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://corepunk-wiki.netlify.app/api/sitemap
